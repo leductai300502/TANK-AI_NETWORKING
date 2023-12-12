@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Camera",
+    "\\Managers",
+    "\\Player",
+    "\\Shell",
+    "\\Tank"
+  ],
+  "SelectedNode": "\\Camera\\FPS.cs",
+  "PreviewInSolutionExplorer": false
+}
